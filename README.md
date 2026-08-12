@@ -1,6 +1,6 @@
 # MISUO Sales & Delivery Dashboard 📊
 
-An interactive Sales & Operations Dashboard built using Microsoft Excel to analyze sales performance, customer behavior, delivery performance, and operational trends.
+An interactive Sales & Delivery Dashboard built using Microsoft Excel to analyze sales performance, customer behavior, delivery performance, and operational trends.
 
 ---
 
