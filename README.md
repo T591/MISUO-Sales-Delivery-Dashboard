@@ -97,13 +97,5 @@ When a filter is selected, the KPIs and charts update dynamically.
 
 ![MISUO Sales & Operations Dashboard](Dashboard.png)
 
----
 
-## 📂 Project Structure
 
-```text
-MISUO-Sales-Operations-Dashboard/
-│
-├── MISUO_Sales_Operations_Dashboard.xlsx
-├── Dashboard.png
-└── README.md
